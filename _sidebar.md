@@ -5,6 +5,7 @@
 * [共享带宽](network/unet/share_bandwidth)
 * [带宽包](network/unet/bandwidth_package)
 * [防火墙](network/unet/firewall)
+* [IPv6转换功能](network/unet/ipv6translation)
 * [外网弹性IP和带宽价格](network/unet/eip_price)
 * [故障排查](network/unet/troubleshooting)
 * [FAQ](network/unet/faq)
