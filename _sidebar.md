@@ -4,14 +4,14 @@
 * [外网弹性IP](network/unet/eip)
 * [共享带宽](network/unet/share_bandwidth)
 * [带宽包](network/unet/bandwidth_package)
-* [防火墙]
+* 防火墙
      * [产品简介](network/unet/firewall/introduction)
      * [操作指南](network/unet/firewall/guide)
-* [IPv6转换功能]
+* IPv6转换功能
      * [产品简介](network/unet/ipv6translation/introduction)
      * [原理架构](network/unet/ipv6translation/structure)
      * [操作指南](network/unet/ipv6translation/guide)
-* [产品价格]
+* 产品价格
      * [EIP流量](network/unet/eip_price/trafiic)
      * [EIP带宽](network/unet/eip_price/bandwidth)
      * [EIP带宽后付费](network/unet/eip_price/accuratebandwidth)
