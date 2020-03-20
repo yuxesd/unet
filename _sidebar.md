@@ -1,9 +1,15 @@
 <div class="sidebar_title icon__OpenStack"> 网络 UNet</div>
 
 * [概览](network/unet/overview)
-* [外网弹性IP](network/unet/eip)
-* [共享带宽](network/unet/share_bandwidth)
-* [带宽包](network/unet/bandwidth_package)
+* 外网弹性IP
+     * [产品简介](network/unet/eip/introduction)
+     * [操作指南](network/unet/eip/guide)
+* 共享带宽
+     * [产品简介](network/unet/share_bandwidth/introduction)
+     * [操作指南](network/unet/share_bandwidth/guide)
+* 带宽包 
+     * [产品简介](network/unet/bandwidth_package/introduction)
+     * [操作指南](network/unet/bandwidth_package/guide)
 * 防火墙
      * [产品简介](network/unet/firewall/introduction)
      * [操作指南](network/unet/firewall/guide)
