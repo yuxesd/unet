@@ -26,7 +26,7 @@
      * [带宽包](network/unet/eip_price/bandwidthpackage)
      * [IPv6转换功能](network/unet/eip_price/ipv6translation)   
 * [故障排查](network/unet/troubleshooting)
-* [FAQ](network/unet/faq)
+* FAQ
      * [带宽相关](network/unet/faq/bandwidth)
      * [访问与隔离](network/unet/faq/access)
      * [防火墙](network/unet/faq/firewall)
