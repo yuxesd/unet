@@ -35,4 +35,4 @@
 
 2\) 目前，共享带宽最小的带宽购买量为20Mbps。
 
-3\) 共享带宽价格表参考[帮助文档](/network/unet/eip_price#共享带宽价格表)
+3\) 共享带宽价格表参考[帮助文档](/network/unet/eip_price/sharebandwidth)
