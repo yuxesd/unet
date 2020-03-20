@@ -1,4 +1,4 @@
-<div class="sidebar_title icon__unet"> 网络 UNet</div>
+<div class="sidebar_title icon__OpenStack"> 网络 UNet</div>
 
 * [概览](network/unet/overview)
 * [外网弹性IP](network/unet/eip)
