@@ -95,4 +95,4 @@ EIP的IPv4地址和IPv6地址统一以EIP资源进行计费，调整EIP的计费
 
 ## 价格表
 
-流量价格表请参考[帮助文档](/network/unet/eip_price#IPv6转换价格)
+流量价格表请参考[帮助文档](unet/eip_price#IPv6转换价格)
