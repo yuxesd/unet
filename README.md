@@ -2,7 +2,7 @@
 
 
 * 外网弹性IP
-     * [产品简介](/unet/eip/introduction)
+     * [产品简介.](/unet/eip/introduction)
      * [操作指南](/unet/eip/guide)
 * 共享带宽
      * [产品简介](/unet/share_bandwidth/introduction)
