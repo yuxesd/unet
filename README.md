@@ -10,9 +10,6 @@
 * 带宽包 
      * [产品简介](/unet/bandwidth_package/introduction)
      * [操作指南](/unet/bandwidth_package/guide)
-* 共享流量包
-     * [产品简介](/unet/shared_traffic_pack/introduction)
-     * [操作指南](/unet/shared_traffic_pack/guide)
 * 防火墙
      * [产品简介](/unet/firewall/introduction)
      * [操作指南](/unet/firewall/guide)
@@ -27,7 +24,6 @@
      * [共享带宽价格](/unet/eip_price/sharebandwidth)
      * [IP地址价格](/unet/eip_price/ipaddress)
      * [带宽包价格](/unet/eip_price/bandwidthpackage)
-     * [共享流量包价格](/unet/eip_price/shared_traffic_pack)
      * [IPv6转换价格](/unet/eip_price/ipv6translation)   
 * [计费说明](https://docs.ucloud.cn/charge/README)
 * [资源过期回收](https://docs.ucloud.cn/charge/recycle)
