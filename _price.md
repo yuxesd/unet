@@ -48,7 +48,7 @@ Unet下包含以下收费产品：
 马尼拉|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 北京二|BGP|共享带宽|100元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 上海二|BGP|共享带宽|100元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
-上海金融云|BGP|共享带宽|150元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
+上海一|BGP|共享带宽|150元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 广州|BGP|共享带宽|100元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 香港|国际|共享带宽|100元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 台北|国际|共享带宽|100元/M/月||[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
@@ -73,7 +73,7 @@ Unet下包含以下收费产品：
 广州|BGP|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 香港|国际|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 洛杉矶|国际|流量|0.5元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
-上海一|BGP|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
+上海一|BGP|流量|1.2/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 新加坡|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 华盛顿|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 法兰克福|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
