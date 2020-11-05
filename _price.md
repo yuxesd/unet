@@ -81,7 +81,7 @@ Unet下包含以下收费产品：
 首尔|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 莫斯科|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 台北|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
-东京|国际|流量|0.7元/GB||[立即购买]|(https://console.ucloud.cn/unet/eip/create)|
+东京|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 迪拜|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 雅加达|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 胡志明|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
