@@ -71,7 +71,7 @@ Unet下包含以下收费产品：
 北京二|BGP|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 上海二|BGP|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 广州|BGP|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
-香港|BGP/国际|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
+香港|国际|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 洛杉矶|国际|流量|0.5元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 上海一|BGP|流量|0.8元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
 新加坡|国际|流量|0.7元/GB||[立即购买](https://console.ucloud.cn/unet/eip/create)|
