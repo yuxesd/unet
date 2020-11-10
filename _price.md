@@ -35,7 +35,7 @@ Unet下包含以下收费产品：
 曼谷|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 新加坡|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 雅加达|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
-胡志明|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+胡志明市|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 洛杉矶|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 华盛顿|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 莫斯科|国际|带宽|100元/M/月|5M及以下带宽30元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
@@ -57,7 +57,7 @@ Unet下包含以下收费产品：
 曼谷|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 新加坡|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 雅加达|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
-胡志明|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
+胡志明市|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 洛杉矶|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 华盛顿|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
 莫斯科|国际|共享带宽|100元/M/月|-|[立即购买](https://console.ucloud.cn/unet/sharebandwidth/create)|
