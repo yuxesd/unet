@@ -88,5 +88,4 @@ Unet下包含以下收费产品:
 伦敦|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 孟买|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 圣保罗|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
-尼日利亚|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 马尼拉|国际|流量|0.7元/GB|-|[立即购买](https://console.ucloud.cn/unet/eip/create)|
