@@ -24,7 +24,7 @@ Unet下包含以下收费产品：
 <!-- udocs:price -->
 |地域|线路|计费方式|价格|说明|操作|
 | :---- | :---- | :---- | :---- | :---- | :---- |
-上海一|BGP|带宽|150元/M/月|5M及以下带宽38元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
+上海|BGP|带宽|150元/M/月|5M及以下带宽38元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 北京二|BGP|带宽|100元/M/月|5M及以下带宽25元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 上海二|BGP|带宽|100元/M/月|5M及以下带宽25元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
 广州|BGP|带宽|100元/M/月|5M及以下带宽25元/M/月|[立即购买](https://console.ucloud.cn/unet/eip/create)|
